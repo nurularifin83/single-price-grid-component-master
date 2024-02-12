@@ -18,7 +18,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Solution URL here](#)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-page-using-css-grid-APsHZLnvJb)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/single-price-grid-component-master/)
 
 ## My process
